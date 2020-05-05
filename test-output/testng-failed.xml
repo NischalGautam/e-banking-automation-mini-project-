@@ -10,7 +10,7 @@
       <class name="com.internetBanking.testCases.TC_LoginDDT_002">
         <methods>
           <include name="setup"/>
-          <include name="loginDDT" invocation-numbers="0 1 3 4"/>
+          <include name="loginDDT" invocation-numbers="0 1"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.internetBanking.testCases.TC_LoginDDT_002 -->
