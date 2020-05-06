@@ -9,81 +9,78 @@ import org.openqa.selenium.support.PageFactory;
 
 public class AddCustomerPage {
 
-
 	WebDriver driver;
-	
-	public AddCustomerPage(WebDriver driver)
-	{
+
+	public AddCustomerPage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
+
 	@FindBy(how = How.XPATH, using = "//a[contains(text(),'New Customer')]")
 	@CacheLookup
 	WebElement addNewCusBtn;
-	
+
 	@FindBy(how = How.NAME, using = "name")
 	@CacheLookup
 	WebElement cusName;
-	
+
 	@FindBy(how = How.XPATH, using = "//tr[5]//td[2]//input[2]")
 	@CacheLookup
 	WebElement rdGenderBtn;
-	
+
 	@FindBy(how = How.ID, using = "dob")
 	@CacheLookup
 	WebElement txtdob;
-	
+
 	@FindBy(how = How.NAME, using = "addr")
 	@CacheLookup
 	WebElement txtAddress;
-	
+
 	@FindBy(how = How.NAME, using = "city")
 	@CacheLookup
 	WebElement txtCity;
-	
+
 	@FindBy(how = How.NAME, using = "state")
 	@CacheLookup
 	WebElement txtState;
-	
+
 	@FindBy(how = How.NAME, using = "pinno")
 	@CacheLookup
 	WebElement txtPin;
-	
+
 	@FindBy(how = How.NAME, using = "telephoneno")
 	@CacheLookup
 	WebElement txtTelNum;
-	
+
 	@FindBy(how = How.NAME, using = "emailid")
 	@CacheLookup
 	WebElement txtEmail;
-	
+
 	@FindBy(how = How.NAME, using = "password")
 	@CacheLookup
 	WebElement txtPwd;
-	
+
 	@FindBy(how = How.NAME, using = "sub")
 	@CacheLookup
 	WebElement btnSubmit;
-	
-	public void clickAddCustomer() 
-	{
+
+	public void clickAddCustomer() {
 		addNewCusBtn.click();
 	}
-	
-	public void custNmae(String cname)
-	{
+
+	public void custNmae(String cname) {
 		cusName.sendKeys(cname);
 	}
-	
+
 	public void custgender(String cgender) {
 		rdGenderBtn.click();
 	}
 
-	public void custdob(String mm,String dd,String yy) {
+	public void custdob(String mm, String dd, String yy) {
 		txtdob.sendKeys(mm);
 		txtdob.sendKeys(dd);
 		txtdob.sendKeys(yy);
-		
+
 	}
 
 	public void custaddress(String caddress) {
@@ -103,7 +100,7 @@ public class AddCustomerPage {
 	}
 
 	public void custtelephoneno(String ctelephoneno) {
-	txtTelNum.sendKeys(ctelephoneno);
+		txtTelNum.sendKeys(ctelephoneno);
 	}
 
 	public void custemailid(String cemailid) {
@@ -117,16 +114,33 @@ public class AddCustomerPage {
 	public void custsubmit() {
 		btnSubmit.click();
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+	public void clearTextPin() {
+		txtPin.clear();
+	}
+
+	public void clearTextAddress() {
+		txtState.clear();
+	}
+
+	public void clearCityInfo() {
+		txtCity.clear();
+	}
+
+	public void clearAddressInfo() {
+		txtAddress.clear();
+	}
+
+	public void clearPhoneInfo() {
+		txtTelNum.clear();
+	}
+
+	public void clearEmailInfo() {
+		txtEmail.clear();
+	}
+
+	public void clearPwd() {
+		txtPwd.clear();
+	}
+
 }

@@ -801,3 +801,508 @@
 2020-05-04 20:36:59,945 [main] INFO ebanking - Providing customer's details...
 2020-05-04 20:37:10,097 [main] INFO ebanking - Validation started
 2020-05-04 20:37:10,133 [main] INFO ebanking - TestCase is passed
+2020-05-05 18:53:33,660 [main] INFO ebanking - username is provided
+2020-05-05 18:53:33,856 [main] INFO ebanking - password is provided
+2020-05-05 18:53:38,104 [main] INFO ebanking - Providing customer's details...
+2020-05-05 18:53:48,987 [main] INFO ebanking - Validation started
+2020-05-05 18:53:49,049 [main] INFO ebanking - TestCase is passed
+2020-05-05 18:55:40,720 [main] INFO ebanking - username is provided
+2020-05-05 18:55:44,207 [main] INFO ebanking - password is provided
+2020-05-05 18:55:48,137 [main] INFO ebanking - Providing customer's details...
+2020-05-05 18:55:59,337 [main] INFO ebanking - Validation started
+2020-05-05 18:55:59,356 [main] INFO ebanking - TestCase is passed
+2020-05-05 18:56:23,482 [main] INFO ebanking - username is provided
+2020-05-05 18:56:26,623 [main] INFO ebanking - password is provided
+2020-05-05 18:56:30,508 [main] INFO ebanking - Providing customer's details...
+2020-05-05 18:56:40,852 [main] INFO ebanking - Validation started
+2020-05-05 18:56:40,941 [main] INFO ebanking - TestCase is passed
+2020-05-05 19:53:55,603 [main] INFO ebanking - Username provided
+2020-05-05 19:53:55,895 [main] INFO ebanking - Password provided
+2020-05-05 19:53:56,335 [main] INFO ebanking - login successful
+2020-05-05 19:57:38,037 [main] INFO ebanking - Username provided
+2020-05-05 19:57:41,228 [main] INFO ebanking - Password provided
+2020-05-05 19:57:41,627 [main] INFO ebanking - login successful
+2020-05-05 19:58:33,000 [main] INFO ebanking - Username provided
+2020-05-05 19:58:33,289 [main] INFO ebanking - Password provided
+2020-05-05 19:59:05,542 [main] INFO ebanking - Username provided
+2020-05-05 19:59:05,878 [main] INFO ebanking - Password provided
+2020-05-05 19:59:07,746 [main] INFO ebanking - login successful
+2020-05-05 20:04:46,452 [main] INFO ebanking - Username provided
+2020-05-05 20:04:49,698 [main] INFO ebanking - Password provided
+2020-05-05 20:04:50,096 [main] INFO ebanking - login successful
+2020-05-05 22:18:47,284 [main] INFO ebanking - Username provided
+2020-05-05 22:18:47,630 [main] INFO ebanking - Password provided
+2020-05-05 22:18:48,332 [main] INFO ebanking - login successful
+2020-05-05 22:19:59,990 [main] INFO ebanking - Username provided
+2020-05-05 22:20:00,419 [main] INFO ebanking - Password provided
+2020-05-05 22:20:01,027 [main] INFO ebanking - login successful
+2020-05-05 22:22:04,837 [main] INFO ebanking - Username provided
+2020-05-05 22:22:05,096 [main] INFO ebanking - Password provided
+2020-05-05 22:22:05,863 [main] INFO ebanking - login successful
+2020-05-05 22:22:44,738 [main] INFO ebanking - Username provided
+2020-05-05 22:22:47,292 [main] INFO ebanking - Password provided
+2020-05-05 22:22:48,423 [main] INFO ebanking - login successful
+2020-05-05 22:24:45,824 [main] INFO ebanking - Username provided
+2020-05-05 22:24:46,064 [main] INFO ebanking - Password provided
+2020-05-05 22:24:46,848 [main] INFO ebanking - login successful
+2020-05-05 22:26:48,697 [main] INFO ebanking - Username provided
+2020-05-05 22:26:48,925 [main] INFO ebanking - Password provided
+2020-05-05 22:26:49,484 [main] INFO ebanking - login successful
+2020-05-05 22:36:16,414 [main] INFO ebanking - Username provided
+2020-05-05 22:36:17,342 [main] INFO ebanking - Password provided
+2020-05-05 22:36:18,188 [main] INFO ebanking - login successful
+2020-05-05 22:37:02,654 [main] INFO ebanking - Username provided
+2020-05-05 22:37:03,388 [main] INFO ebanking - Password provided
+2020-05-05 22:37:05,119 [main] INFO ebanking - login successful
+2020-05-05 22:47:22,094 [main] INFO ebanking - Username provided
+2020-05-05 22:47:22,290 [main] INFO ebanking - Password provided
+2020-05-05 22:47:23,174 [main] INFO ebanking - login successful
+2020-05-05 23:03:37,380 [main] INFO ebanking - Username provided
+2020-05-05 23:03:40,582 [main] INFO ebanking - Password provided
+2020-05-05 23:03:41,605 [main] INFO ebanking - login successful
+2020-05-05 23:03:41,613 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:03:42,337 [main] INFO ebanking - Provided user Id
+2020-05-05 23:03:43,173 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:03:43,623 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:03:44,020 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:03:44,158 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:03:44,298 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:04:55,856 [main] INFO ebanking - Username provided
+2020-05-05 23:04:57,068 [main] INFO ebanking - Password provided
+2020-05-05 23:05:00,757 [main] INFO ebanking - login successful
+2020-05-05 23:05:00,759 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:05:01,269 [main] INFO ebanking - Provided user Id
+2020-05-05 23:05:02,152 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:05:02,556 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:05:03,198 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:05:03,319 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:05:03,440 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:06:11,700 [main] INFO ebanking - Username provided
+2020-05-05 23:06:15,285 [main] INFO ebanking - Password provided
+2020-05-05 23:06:16,407 [main] INFO ebanking - login successful
+2020-05-05 23:06:16,409 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:06:16,909 [main] INFO ebanking - Provided user Id
+2020-05-05 23:06:17,901 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:06:18,290 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:06:18,643 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:06:18,786 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:06:18,927 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:06:22,662 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:07:33,973 [main] INFO ebanking - Username provided
+2020-05-05 23:07:37,257 [main] INFO ebanking - Password provided
+2020-05-05 23:07:37,717 [main] INFO ebanking - login successful
+2020-05-05 23:07:37,719 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:07:38,661 [main] INFO ebanking - Provided user Id
+2020-05-05 23:07:39,698 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:07:40,064 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:07:40,448 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:07:40,571 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:07:40,707 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:07:44,339 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:22:08,517 [main] INFO ebanking - Username provided
+2020-05-05 23:22:08,793 [main] INFO ebanking - Password provided
+2020-05-05 23:22:09,766 [main] INFO ebanking - login successful
+2020-05-05 23:22:09,771 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:22:10,526 [main] INFO ebanking - Provided user Id
+2020-05-05 23:22:11,580 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:22:12,758 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:22:13,100 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:22:13,193 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:22:13,358 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:22:17,109 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:25:25,776 [main] INFO ebanking - Username provided
+2020-05-05 23:25:25,941 [main] INFO ebanking - Password provided
+2020-05-05 23:25:26,285 [main] INFO ebanking - login successful
+2020-05-05 23:25:26,290 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:25:27,160 [main] INFO ebanking - Provided user Id
+2020-05-05 23:25:28,882 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:25:29,311 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:25:29,740 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:25:29,908 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:25:30,089 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:27:16,906 [main] INFO ebanking - Username provided
+2020-05-05 23:27:17,088 [main] INFO ebanking - Password provided
+2020-05-05 23:27:18,182 [main] INFO ebanking - login successful
+2020-05-05 23:27:18,185 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:27:19,023 [main] INFO ebanking - Provided user Id
+2020-05-05 23:27:20,390 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:27:21,341 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:27:23,039 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:27:23,150 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:27:23,345 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:28:59,947 [main] INFO ebanking - Username provided
+2020-05-05 23:29:00,245 [main] INFO ebanking - Password provided
+2020-05-05 23:29:00,752 [main] INFO ebanking - login successful
+2020-05-05 23:29:00,757 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:29:02,032 [main] INFO ebanking - Provided user Id
+2020-05-05 23:29:03,398 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:29:03,993 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:29:04,514 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:29:04,650 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:29:05,126 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:29:49,315 [main] INFO ebanking - Username provided
+2020-05-05 23:29:53,492 [main] INFO ebanking - Password provided
+2020-05-05 23:29:55,044 [main] INFO ebanking - login successful
+2020-05-05 23:29:55,050 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:29:56,412 [main] INFO ebanking - Provided user Id
+2020-05-05 23:29:58,105 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:29:59,392 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:29:59,741 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:29:59,925 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:30:00,684 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:30:01,869 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:31:20,864 [main] INFO ebanking - Username provided
+2020-05-05 23:31:21,295 [main] INFO ebanking - Password provided
+2020-05-05 23:31:22,953 [main] INFO ebanking - login successful
+2020-05-05 23:31:22,959 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:31:24,731 [main] INFO ebanking - Provided user Id
+2020-05-05 23:31:26,849 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:31:27,754 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:31:28,247 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:31:28,353 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:31:28,551 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:31:30,009 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:34:02,077 [main] INFO ebanking - Username provided
+2020-05-05 23:34:04,849 [main] INFO ebanking - Password provided
+2020-05-05 23:34:05,832 [main] INFO ebanking - login successful
+2020-05-05 23:34:05,835 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:34:06,425 [main] INFO ebanking - Provided user Id
+2020-05-05 23:34:07,266 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:34:07,519 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:34:07,872 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:34:07,966 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:34:08,208 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:34:08,942 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:37:32,706 [main] INFO ebanking - Username provided
+2020-05-05 23:37:32,873 [main] INFO ebanking - Password provided
+2020-05-05 23:37:33,736 [main] INFO ebanking - login successful
+2020-05-05 23:37:33,739 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:37:34,256 [main] INFO ebanking - Provided user Id
+2020-05-05 23:37:35,337 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:37:36,110 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:37:36,401 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:37:36,505 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:37:36,610 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:38:16,403 [main] INFO ebanking - Username provided
+2020-05-05 23:38:16,613 [main] INFO ebanking - Password provided
+2020-05-05 23:38:17,498 [main] INFO ebanking - login successful
+2020-05-05 23:38:17,500 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:38:18,219 [main] INFO ebanking - Provided user Id
+2020-05-05 23:38:19,295 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:38:19,778 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:38:20,218 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:38:20,319 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:38:20,502 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:38:21,164 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:41:12,261 [main] INFO ebanking - Username provided
+2020-05-05 23:41:12,505 [main] INFO ebanking - Password provided
+2020-05-05 23:41:13,526 [main] INFO ebanking - login successful
+2020-05-05 23:41:13,530 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:41:14,561 [main] INFO ebanking - Provided user Id
+2020-05-05 23:41:15,604 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:41:16,030 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:41:16,429 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:41:16,576 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:41:16,707 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:42:33,951 [main] INFO ebanking - Username provided
+2020-05-05 23:42:34,329 [main] INFO ebanking - Password provided
+2020-05-05 23:42:35,788 [main] INFO ebanking - login successful
+2020-05-05 23:42:35,792 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:42:36,647 [main] INFO ebanking - Provided user Id
+2020-05-05 23:42:38,385 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:42:39,115 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:42:39,551 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:42:39,651 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:42:39,834 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:42:40,611 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:46:04,706 [main] INFO ebanking - Username provided
+2020-05-05 23:46:05,040 [main] INFO ebanking - Password provided
+2020-05-05 23:46:06,581 [main] INFO ebanking - login successful
+2020-05-05 23:46:06,583 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:46:08,919 [main] INFO ebanking - Provided user Id
+2020-05-05 23:46:11,903 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:46:13,219 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:46:14,801 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:46:15,002 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:46:15,267 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:46:16,711 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:48:40,607 [main] INFO ebanking - Username provided
+2020-05-05 23:48:43,428 [main] INFO ebanking - Password provided
+2020-05-05 23:48:44,062 [main] INFO ebanking - login successful
+2020-05-05 23:48:44,065 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:48:50,507 [main] INFO ebanking - Provided user Id
+2020-05-05 23:48:54,274 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:48:55,577 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:48:58,758 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:48:58,960 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:48:59,263 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:49:01,966 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:52:59,353 [main] INFO ebanking - Username provided
+2020-05-05 23:52:59,987 [main] INFO ebanking - Password provided
+2020-05-05 23:53:02,545 [main] INFO ebanking - login successful
+2020-05-05 23:53:02,549 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:53:06,843 [main] INFO ebanking - Provided user Id
+2020-05-05 23:53:19,180 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:53:22,879 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:53:23,678 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:53:23,947 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:53:24,212 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:53:25,783 [main] INFO ebanking - TestCase is passed
+2020-05-05 23:58:11,981 [main] INFO ebanking - Username provided
+2020-05-05 23:58:12,581 [main] INFO ebanking - Password provided
+2020-05-05 23:58:15,355 [main] INFO ebanking - login successful
+2020-05-05 23:58:15,361 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-05 23:58:17,105 [main] INFO ebanking - Provided user Id
+2020-05-05 23:58:22,356 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:58:24,232 [main] INFO ebanking - Populated text area with new info1
+2020-05-05 23:58:26,622 [main] INFO ebanking - Populated text area with new info2
+2020-05-05 23:58:26,885 [main] INFO ebanking - Cleared previous entry
+2020-05-05 23:58:27,269 [main] INFO ebanking - Populated text area with new info3
+2020-05-05 23:58:28,997 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:07:28,015 [main] INFO ebanking - Username provided
+2020-05-06 00:07:28,198 [main] INFO ebanking - Password provided
+2020-05-06 00:07:29,084 [main] INFO ebanking - login successful
+2020-05-06 00:07:29,087 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:07:29,639 [main] INFO ebanking - Provided user Id
+2020-05-06 00:07:30,548 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:07:30,955 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:07:31,360 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:07:31,445 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:07:31,604 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:08:24,385 [main] INFO ebanking - Username provided
+2020-05-06 00:08:24,630 [main] INFO ebanking - Password provided
+2020-05-06 00:08:25,521 [main] INFO ebanking - login successful
+2020-05-06 00:08:25,525 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:08:26,170 [main] INFO ebanking - Provided user Id
+2020-05-06 00:08:27,180 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:08:27,581 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:08:28,068 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:08:28,163 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:08:28,443 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:08:29,275 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:08:29,684 [main] INFO ebanking - Navigated to Home page
+2020-05-06 00:09:59,343 [main] INFO ebanking - URL is opened
+2020-05-06 00:09:59,758 [main] INFO ebanking - Entered username
+2020-05-06 00:10:00,910 [main] INFO ebanking - Entered password
+2020-05-06 00:10:01,980 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:10:02,026 [main] INFO ebanking - Login test passed
+2020-05-06 00:10:02,864 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:10:03,757 [main] INFO ebanking - Login passed
+2020-05-06 00:10:06,942 [main] INFO ebanking - user name provided
+2020-05-06 00:10:07,258 [main] INFO ebanking - password provided
+2020-05-06 00:10:11,185 [main] INFO ebanking - Login passed
+2020-05-06 00:10:16,055 [main] INFO ebanking - user name provided
+2020-05-06 00:10:16,312 [main] INFO ebanking - password provided
+2020-05-06 00:10:20,076 [main] INFO ebanking - Login passed
+2020-05-06 00:10:24,212 [main] INFO ebanking - username is provided
+2020-05-06 00:10:24,332 [main] INFO ebanking - password is provided
+2020-05-06 00:10:28,548 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:10:39,544 [main] INFO ebanking - Validation started
+2020-05-06 00:10:39,596 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:17:43,419 [main] INFO ebanking - URL is opened
+2020-05-06 00:17:43,907 [main] INFO ebanking - Entered username
+2020-05-06 00:17:44,156 [main] INFO ebanking - Entered password
+2020-05-06 00:17:45,423 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:19:05,029 [main] INFO ebanking - URL is opened
+2020-05-06 00:19:05,678 [main] INFO ebanking - Entered username
+2020-05-06 00:19:05,889 [main] INFO ebanking - Entered password
+2020-05-06 00:19:06,770 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:19:06,783 [main] INFO ebanking - Login test passed
+2020-05-06 00:19:07,257 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:19:07,764 [main] INFO ebanking - Login passed
+2020-05-06 00:19:09,561 [main] INFO ebanking - user name provided
+2020-05-06 00:19:09,675 [main] INFO ebanking - password provided
+2020-05-06 00:19:14,424 [main] INFO ebanking - Login passed
+2020-05-06 00:19:18,700 [main] INFO ebanking - user name provided
+2020-05-06 00:19:18,876 [main] INFO ebanking - password provided
+2020-05-06 00:19:22,438 [main] INFO ebanking - Login passed
+2020-05-06 00:19:26,426 [main] INFO ebanking - username is provided
+2020-05-06 00:19:26,524 [main] INFO ebanking - password is provided
+2020-05-06 00:19:30,851 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:19:41,471 [main] INFO ebanking - Validation started
+2020-05-06 00:19:41,499 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:19:42,069 [main] INFO ebanking - Navigated to home page
+2020-05-06 00:19:42,552 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:19:43,070 [main] INFO ebanking - Successfully Logged out
+2020-05-06 00:19:43,237 [main] INFO ebanking - Username provided
+2020-05-06 00:19:43,452 [main] INFO ebanking - Password provided
+2020-05-06 00:19:44,231 [main] INFO ebanking - login successful
+2020-05-06 00:19:44,232 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:19:44,881 [main] INFO ebanking - Provided user Id
+2020-05-06 00:19:45,825 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:19:46,089 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:19:46,363 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:19:46,432 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:19:46,657 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:19:47,335 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:19:47,719 [main] INFO ebanking - Navigated to Home page
+2020-05-06 00:20:52,490 [main] INFO ebanking - URL is opened
+2020-05-06 00:20:53,194 [main] INFO ebanking - Entered username
+2020-05-06 00:20:53,437 [main] INFO ebanking - Entered password
+2020-05-06 00:20:54,352 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:20:54,376 [main] INFO ebanking - Login test passed
+2020-05-06 00:20:54,867 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:20:55,444 [main] INFO ebanking - Login passed
+2020-05-06 00:20:57,620 [main] INFO ebanking - user name provided
+2020-05-06 00:20:58,036 [main] INFO ebanking - password provided
+2020-05-06 00:21:01,940 [main] INFO ebanking - Login passed
+2020-05-06 00:21:05,942 [main] INFO ebanking - user name provided
+2020-05-06 00:21:06,051 [main] INFO ebanking - password provided
+2020-05-06 00:21:10,022 [main] INFO ebanking - Login passed
+2020-05-06 00:21:14,359 [main] INFO ebanking - username is provided
+2020-05-06 00:21:14,545 [main] INFO ebanking - password is provided
+2020-05-06 00:21:19,055 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:21:30,164 [main] INFO ebanking - Validation started
+2020-05-06 00:21:30,222 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:21:30,847 [main] INFO ebanking - Navigated to home page
+2020-05-06 00:21:31,579 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:21:32,278 [main] INFO ebanking - Successfully Logged out
+2020-05-06 00:21:32,682 [main] INFO ebanking - Username provided
+2020-05-06 00:21:33,075 [main] INFO ebanking - Password provided
+2020-05-06 00:21:33,773 [main] INFO ebanking - login successful
+2020-05-06 00:21:33,773 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:21:34,246 [main] INFO ebanking - Provided user Id
+2020-05-06 00:21:34,973 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:21:35,239 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:21:35,616 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:21:35,781 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:21:35,982 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:31:12,471 [main] INFO ebanking - URL is opened
+2020-05-06 00:31:13,358 [main] INFO ebanking - Entered username
+2020-05-06 00:31:13,603 [main] INFO ebanking - Entered password
+2020-05-06 00:31:14,537 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:31:14,639 [main] INFO ebanking - Login test passed
+2020-05-06 00:31:15,321 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:31:15,859 [main] INFO ebanking - Login passed
+2020-05-06 00:31:19,987 [main] INFO ebanking - user name provided
+2020-05-06 00:31:20,207 [main] INFO ebanking - password provided
+2020-05-06 00:31:24,204 [main] INFO ebanking - Login passed
+2020-05-06 00:31:28,622 [main] INFO ebanking - user name provided
+2020-05-06 00:31:28,944 [main] INFO ebanking - password provided
+2020-05-06 00:31:32,859 [main] INFO ebanking - Login passed
+2020-05-06 00:31:37,379 [main] INFO ebanking - username is provided
+2020-05-06 00:31:37,614 [main] INFO ebanking - password is provided
+2020-05-06 00:31:42,119 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:31:53,033 [main] INFO ebanking - Validation started
+2020-05-06 00:31:53,109 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:31:53,768 [main] INFO ebanking - Navigated to home page
+2020-05-06 00:31:54,350 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:31:54,864 [main] INFO ebanking - Successfully Logged out
+2020-05-06 00:31:55,159 [main] INFO ebanking - Username provided
+2020-05-06 00:31:55,465 [main] INFO ebanking - Password provided
+2020-05-06 00:31:56,372 [main] INFO ebanking - login successful
+2020-05-06 00:31:56,373 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:31:56,931 [main] INFO ebanking - Provided user Id
+2020-05-06 00:31:58,295 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:31:58,931 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:31:59,336 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:31:59,426 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:31:59,536 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:31:59,623 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:32:00,525 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:32:01,002 [main] INFO ebanking - Navigated to Home page
+2020-05-06 00:36:17,778 [main] INFO ebanking - URL is opened
+2020-05-06 00:36:18,120 [main] INFO ebanking - Entered username
+2020-05-06 00:36:18,416 [main] INFO ebanking - Entered password
+2020-05-06 00:36:19,482 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:36:19,580 [main] INFO ebanking - Login test passed
+2020-05-06 00:36:20,104 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:36:20,602 [main] INFO ebanking - Login passed
+2020-05-06 00:36:22,507 [main] INFO ebanking - user name provided
+2020-05-06 00:36:22,643 [main] INFO ebanking - password provided
+2020-05-06 00:36:27,648 [main] INFO ebanking - Login passed
+2020-05-06 00:36:31,854 [main] INFO ebanking - user name provided
+2020-05-06 00:36:32,021 [main] INFO ebanking - password provided
+2020-05-06 00:36:35,852 [main] INFO ebanking - Login passed
+2020-05-06 00:36:40,166 [main] INFO ebanking - username is provided
+2020-05-06 00:36:40,331 [main] INFO ebanking - password is provided
+2020-05-06 00:36:44,390 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:36:54,407 [main] INFO ebanking - Validation started
+2020-05-06 00:38:02,109 [main] INFO ebanking - URL is opened
+2020-05-06 00:38:02,340 [main] INFO ebanking - Entered username
+2020-05-06 00:38:02,480 [main] INFO ebanking - Entered password
+2020-05-06 00:39:22,241 [main] INFO ebanking - URL is opened
+2020-05-06 00:39:22,517 [main] INFO ebanking - Entered username
+2020-05-06 00:39:22,790 [main] INFO ebanking - Entered password
+2020-05-06 00:39:23,611 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:39:23,629 [main] INFO ebanking - Login test passed
+2020-05-06 00:39:24,041 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:39:24,575 [main] INFO ebanking - Login passed
+2020-05-06 00:39:26,638 [main] INFO ebanking - user name provided
+2020-05-06 00:39:26,791 [main] INFO ebanking - password provided
+2020-05-06 00:39:30,668 [main] INFO ebanking - Login passed
+2020-05-06 00:39:34,782 [main] INFO ebanking - user name provided
+2020-05-06 00:39:34,942 [main] INFO ebanking - password provided
+2020-05-06 00:39:38,663 [main] INFO ebanking - Login passed
+2020-05-06 00:39:42,960 [main] INFO ebanking - username is provided
+2020-05-06 00:39:43,199 [main] INFO ebanking - password is provided
+2020-05-06 00:39:47,481 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:39:58,094 [main] INFO ebanking - Validation started
+2020-05-06 00:41:21,193 [main] INFO ebanking - URL is opened
+2020-05-06 00:41:21,433 [main] INFO ebanking - Entered username
+2020-05-06 00:41:21,574 [main] INFO ebanking - Entered password
+2020-05-06 00:41:22,454 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:41:22,469 [main] INFO ebanking - Login test passed
+2020-05-06 00:41:22,966 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:41:23,585 [main] INFO ebanking - Login passed
+2020-05-06 00:41:25,178 [main] INFO ebanking - user name provided
+2020-05-06 00:41:25,281 [main] INFO ebanking - password provided
+2020-05-06 00:41:29,058 [main] INFO ebanking - Login passed
+2020-05-06 00:41:33,193 [main] INFO ebanking - user name provided
+2020-05-06 00:41:33,345 [main] INFO ebanking - password provided
+2020-05-06 00:41:37,031 [main] INFO ebanking - Login passed
+2020-05-06 00:41:41,324 [main] INFO ebanking - username is provided
+2020-05-06 00:41:41,546 [main] INFO ebanking - password is provided
+2020-05-06 00:41:45,683 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:41:56,015 [main] INFO ebanking - Validation started
+2020-05-06 00:41:56,064 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:41:56,535 [main] INFO ebanking - Navigated to home page
+2020-05-06 00:41:56,905 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:41:57,397 [main] INFO ebanking - Successfully Logged out
+2020-05-06 00:41:57,582 [main] INFO ebanking - Username provided
+2020-05-06 00:41:57,805 [main] INFO ebanking - Password provided
+2020-05-06 00:41:58,452 [main] INFO ebanking - login successful
+2020-05-06 00:41:58,453 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:41:58,965 [main] INFO ebanking - Provided user Id
+2020-05-06 00:42:00,156 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:42:00,601 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:42:00,986 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:42:01,076 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:42:01,228 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:42:01,305 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:42:02,047 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:42:02,506 [main] INFO ebanking - Navigated to Home page
+2020-05-06 00:42:45,526 [main] INFO ebanking - URL is opened
+2020-05-06 00:42:45,815 [main] INFO ebanking - Entered username
+2020-05-06 00:42:46,039 [main] INFO ebanking - Entered password
+2020-05-06 00:42:47,969 [main] INFO ebanking - Clicked submit button
+2020-05-06 00:42:48,094 [main] INFO ebanking - Login test passed
+2020-05-06 00:42:49,877 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:42:50,600 [main] INFO ebanking - Login passed
+2020-05-06 00:42:53,426 [main] INFO ebanking - user name provided
+2020-05-06 00:42:53,618 [main] INFO ebanking - password provided
+2020-05-06 00:42:57,301 [main] INFO ebanking - Login passed
+2020-05-06 00:43:01,466 [main] INFO ebanking - user name provided
+2020-05-06 00:43:01,625 [main] INFO ebanking - password provided
+2020-05-06 00:43:05,400 [main] INFO ebanking - Login passed
+2020-05-06 00:43:09,493 [main] INFO ebanking - username is provided
+2020-05-06 00:43:09,651 [main] INFO ebanking - password is provided
+2020-05-06 00:43:13,937 [main] INFO ebanking - Providing customer's details...
+2020-05-06 00:43:24,154 [main] INFO ebanking - Validation started
+2020-05-06 00:43:24,253 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:43:24,824 [main] INFO ebanking - Navigated to home page
+2020-05-06 00:43:25,211 [main] INFO ebanking - Clicked Logout button
+2020-05-06 00:43:25,691 [main] INFO ebanking - Successfully Logged out
+2020-05-06 00:43:25,964 [main] INFO ebanking - Username provided
+2020-05-06 00:43:26,168 [main] INFO ebanking - Password provided
+2020-05-06 00:43:26,755 [main] INFO ebanking - login successful
+2020-05-06 00:43:26,756 [main] INFO ebanking - Clicked Edit Customer Link
+2020-05-06 00:43:27,239 [main] INFO ebanking - Provided user Id
+2020-05-06 00:43:27,968 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:43:28,192 [main] INFO ebanking - Populated text area with new info1
+2020-05-06 00:43:28,522 [main] INFO ebanking - Populated text area with new info2
+2020-05-06 00:43:28,623 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:43:28,803 [main] INFO ebanking - Populated text area with new info3
+2020-05-06 00:43:28,909 [main] INFO ebanking - Cleared previous entry
+2020-05-06 00:43:29,835 [main] INFO ebanking - TestCase is passed
+2020-05-06 00:43:30,511 [main] INFO ebanking - Navigated to Home page

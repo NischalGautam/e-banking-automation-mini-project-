@@ -63,5 +63,23 @@ public class ReadConfig {
 		return edgepath;
 	}
 	
+	public String getid01()
+	{
+		String id01 = pro.getProperty("id1");
+		return id01;
+	}
+	
+	public String getid02()
+	{
+		String id02 = pro.getProperty("id2");
+		return id02;
+	}
+	
+	public String getid03()
+	{
+		String id03 = pro.getProperty("id3");
+		return id03;
+	}
+	
 	
 }
