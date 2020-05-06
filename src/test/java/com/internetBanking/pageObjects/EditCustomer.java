@@ -10,53 +10,42 @@ import org.openqa.selenium.support.PageFactory;
 public class EditCustomer {
 
 	WebDriver driver;
-	
-	public EditCustomer(WebDriver driver)
-	{
+
+	public EditCustomer(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
-	
+
 	@FindBy(how = How.LINK_TEXT, using = "Edit Customer")
 	@CacheLookup
 	WebElement editCusBtn;
-	
-	@FindBy(how = How.NAME, using = "cusid" )
+
+	@FindBy(how = How.NAME, using = "cusid")
 	@CacheLookup
 	WebElement idInput;
-	
-	@FindBy(how = How.NAME, using = "AccSubmit" )
+
+	@FindBy(how = How.NAME, using = "AccSubmit")
 	@CacheLookup
 	WebElement submitBtn;
-	
+
 	@FindBy(how = How.LINK_TEXT, using = "Continue")
 	@CacheLookup
 	WebElement homeLink;
-	
-	
-	
-	
-	
-	public void clickEditCusBtn()
-	{
+
+	public void clickEditCusBtn() {
 		editCusBtn.click();
 	}
-	
-	public void cusIdInput(String id)
-	{
+
+	public void cusIdInput(String id) {
 		idInput.sendKeys(id);
 	}
-	
-	public void submitBtn()
-	{
+
+	public void submitBtn() {
 		submitBtn.click();
 	}
-	
-	public void homeLink()
-	{
+
+	public void homeLink() {
 		homeLink.click();
 	}
-	
-	
-	
+
 }

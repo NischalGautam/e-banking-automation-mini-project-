@@ -10,10 +10,13 @@
 	<test thread-count="5" name="Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.internetBanking.testCases.TC_LoginTest_001"/>
-			<class name="com.internetBanking.testCases.TC_LoginDDT_002" /> 
-			<class name="com.internetBanking.testCases.TC_AddCustomerTest_003"/>
-			<class name="com.internetBanking.testCases.TC_EditCustomerTest_004"/>
+			<!-- <class name="com.internetBanking.testCases.TC_LoginTest_001"/> -->
+			<!-- <class name="com.internetBanking.testCases.TC_LoginDDT_002" />  -->
+			
+			<!-- <class name="com.internetBanking.testCases.TC_EditCustomerTest_004"/> -->
+			<class name="com.internetBanking.testCases.TC_DeleteCustomerTest_005"/>
+			
+			<!-- <class name="com.internetBanking.testCases.TC_AddCustomerTest_003"/> -->
 		
 		</classes>
 	</test> <!-- Test -->

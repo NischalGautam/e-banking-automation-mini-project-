@@ -22,8 +22,9 @@ public class TC_EditCustomerTest_004 extends BaseClass {
 		EditCustomer ec = new EditCustomer(driver);
 		log.info("Clicked Edit Customer Link");
 		ec.clickEditCusBtn();
-		log.info("Provided user Id");
+		
 		ec.cusIdInput(id1);
+		log.info("Provided user Id");
 		ec.submitBtn();
 
 		AddCustomerPage ap = new AddCustomerPage(driver);

@@ -1306,3 +1306,352 @@
 2020-05-06 00:43:28,909 - ebanking -INFO - Cleared previous entry
 2020-05-06 00:43:29,835 - ebanking -INFO - TestCase is passed
 2020-05-06 00:43:30,511 - ebanking -INFO - Navigated to Home page
+2020-05-06 01:47:59,208 - ebanking -INFO - URL is opened
+2020-05-06 01:47:59,765 - ebanking -INFO - Entered username
+2020-05-06 01:47:59,946 - ebanking -INFO - Entered password
+2020-05-06 01:48:00,781 - ebanking -INFO - Clicked submit button
+2020-05-06 01:48:00,852 - ebanking -INFO - Login test passed
+2020-05-06 01:48:01,432 - ebanking -INFO - Clicked Logout button
+2020-05-06 01:48:01,929 - ebanking -INFO - Login passed
+2020-05-06 01:48:04,105 - ebanking -INFO - user name provided
+2020-05-06 01:48:04,244 - ebanking -INFO - password provided
+2020-05-06 01:48:07,670 - ebanking -INFO - Login passed
+2020-05-06 01:48:11,797 - ebanking -INFO - user name provided
+2020-05-06 01:48:12,171 - ebanking -INFO - password provided
+2020-05-06 01:48:16,270 - ebanking -INFO - Login passed
+2020-05-06 01:48:20,525 - ebanking -INFO - username is provided
+2020-05-06 01:48:20,684 - ebanking -INFO - password is provided
+2020-05-06 01:48:24,964 - ebanking -INFO - Providing customer's details...
+2020-05-06 01:48:35,679 - ebanking -INFO - Validation started
+2020-05-06 01:48:35,732 - ebanking -INFO - TestCase is passed
+2020-05-06 01:48:36,220 - ebanking -INFO - Navigated to home page
+2020-05-06 01:48:36,680 - ebanking -INFO - Clicked Logout button
+2020-05-06 01:48:37,241 - ebanking -INFO - Successfully Logged out
+2020-05-06 01:48:37,371 - ebanking -INFO - Username provided
+2020-05-06 01:48:37,459 - ebanking -INFO - Password provided
+2020-05-06 01:48:38,209 - ebanking -INFO - login successful
+2020-05-06 01:48:38,210 - ebanking -INFO - Clicked Edit Customer Link
+2020-05-06 01:48:39,077 - ebanking -INFO - Provided user Id
+2020-05-06 01:48:39,921 - ebanking -INFO - Cleared previous entry
+2020-05-06 01:48:40,262 - ebanking -INFO - Populated text area with new info1
+2020-05-06 01:48:40,648 - ebanking -INFO - Populated text area with new info2
+2020-05-06 01:48:40,810 - ebanking -INFO - Cleared previous entry
+2020-05-06 01:48:40,960 - ebanking -INFO - Populated text area with new info3
+2020-05-06 01:48:41,024 - ebanking -INFO - Cleared previous entry
+2020-05-06 01:48:41,930 - ebanking -INFO - TestCase is passed
+2020-05-06 01:48:42,396 - ebanking -INFO - Navigated to Home page
+2020-05-06 13:43:30,425 - ebanking -INFO - username is provided
+2020-05-06 13:43:30,627 - ebanking -INFO - password is provided
+2020-05-06 13:43:35,293 - ebanking -INFO - Provided user Id
+2020-05-06 13:45:59,687 - ebanking -INFO - username is provided
+2020-05-06 13:45:59,910 - ebanking -INFO - password is provided
+2020-05-06 13:48:05,946 - ebanking -INFO - username is provided
+2020-05-06 13:48:06,149 - ebanking -INFO - password is provided
+2020-05-06 13:48:11,165 - ebanking -INFO - Provided user Id
+2020-05-06 13:49:44,689 - ebanking -INFO - username is provided
+2020-05-06 13:49:44,986 - ebanking -INFO - password is provided
+2020-05-06 13:49:49,570 - ebanking -INFO - Providing customer's details...
+2020-05-06 13:50:00,227 - ebanking -INFO - Validation started
+2020-05-06 13:50:00,302 - ebanking -INFO - TestCase is passed
+2020-05-06 13:50:00,828 - ebanking -INFO - Navigated to home page
+2020-05-06 13:50:01,307 - ebanking -INFO - Clicked Logout button
+2020-05-06 13:50:01,762 - ebanking -INFO - Successfully Logged out
+2020-05-06 13:50:21,891 - ebanking -INFO - username is provided
+2020-05-06 13:50:22,063 - ebanking -INFO - password is provided
+2020-05-06 13:50:27,008 - ebanking -INFO - Providing customer's details...
+2020-05-06 13:50:37,558 - ebanking -INFO - Validation started
+2020-05-06 13:50:37,610 - ebanking -INFO - TestCase is passed
+2020-05-06 13:50:38,085 - ebanking -INFO - Navigated to home page
+2020-05-06 13:50:38,471 - ebanking -INFO - Clicked Logout button
+2020-05-06 13:50:38,958 - ebanking -INFO - Successfully Logged out
+2020-05-06 13:51:00,193 - ebanking -INFO - username is provided
+2020-05-06 13:51:00,454 - ebanking -INFO - password is provided
+2020-05-06 13:51:04,877 - ebanking -INFO - Providing customer's details...
+2020-05-06 13:51:15,728 - ebanking -INFO - Validation started
+2020-05-06 13:51:15,769 - ebanking -INFO - TestCase is passed
+2020-05-06 13:51:16,063 - ebanking -INFO - Navigated to home page
+2020-05-06 13:51:16,761 - ebanking -INFO - Clicked Logout button
+2020-05-06 13:51:17,465 - ebanking -INFO - Successfully Logged out
+2020-05-06 13:51:36,533 - ebanking -INFO - username is provided
+2020-05-06 13:51:36,695 - ebanking -INFO - password is provided
+2020-05-06 13:51:41,425 - ebanking -INFO - Providing customer's details...
+2020-05-06 13:51:51,687 - ebanking -INFO - Validation started
+2020-05-06 13:51:51,748 - ebanking -INFO - TestCase is passed
+2020-05-06 13:51:52,240 - ebanking -INFO - Navigated to home page
+2020-05-06 13:51:52,711 - ebanking -INFO - Clicked Logout button
+2020-05-06 13:51:53,525 - ebanking -INFO - Successfully Logged out
+2020-05-06 13:52:13,093 - ebanking -INFO - username is provided
+2020-05-06 13:52:13,276 - ebanking -INFO - password is provided
+2020-05-06 13:52:18,024 - ebanking -INFO - Providing customer's details...
+2020-05-06 13:52:28,465 - ebanking -INFO - Validation started
+2020-05-06 13:52:28,531 - ebanking -INFO - TestCase is passed
+2020-05-06 13:52:29,011 - ebanking -INFO - Navigated to home page
+2020-05-06 13:52:29,471 - ebanking -INFO - Clicked Logout button
+2020-05-06 13:52:29,993 - ebanking -INFO - Successfully Logged out
+2020-05-06 14:00:50,690 - ebanking -INFO - username is provided
+2020-05-06 14:00:50,938 - ebanking -INFO - password is provided
+2020-05-06 14:00:55,726 - ebanking -INFO - Provided user Id
+2020-05-06 14:02:32,314 - ebanking -INFO - username is provided
+2020-05-06 14:02:32,533 - ebanking -INFO - password is provided
+2020-05-06 14:02:37,236 - ebanking -INFO - Provided user Id
+2020-05-06 14:14:01,375 - ebanking -INFO - username is provided
+2020-05-06 14:14:01,520 - ebanking -INFO - password is provided
+2020-05-06 14:14:06,060 - ebanking -INFO - Provided user Id
+2020-05-06 14:14:09,540 - ebanking -INFO - Validation started
+2020-05-06 14:19:35,793 - ebanking -INFO - username is provided
+2020-05-06 14:19:35,999 - ebanking -INFO - password is provided
+2020-05-06 14:19:41,077 - ebanking -INFO - Provided user Id
+2020-05-06 14:19:44,503 - ebanking -INFO - Validation started
+2020-05-06 14:28:47,422 - ebanking -INFO - username is provided
+2020-05-06 14:28:47,597 - ebanking -INFO - password is provided
+2020-05-06 14:28:52,515 - ebanking -INFO - Provided user Id
+2020-05-06 14:30:19,597 - ebanking -INFO - username is provided
+2020-05-06 14:30:19,764 - ebanking -INFO - password is provided
+2020-05-06 14:30:24,705 - ebanking -INFO - Providing customer's details...
+2020-05-06 14:30:35,309 - ebanking -INFO - Validation started
+2020-05-06 14:30:35,375 - ebanking -INFO - TestCase is passed
+2020-05-06 14:30:35,849 - ebanking -INFO - Navigated to home page
+2020-05-06 14:30:36,256 - ebanking -INFO - Clicked Logout button
+2020-05-06 14:30:36,688 - ebanking -INFO - Successfully Logged out
+2020-05-06 14:31:55,992 - ebanking -INFO - username is provided
+2020-05-06 14:31:56,327 - ebanking -INFO - password is provided
+2020-05-06 14:32:41,095 - ebanking -INFO - username is provided
+2020-05-06 14:32:41,345 - ebanking -INFO - password is provided
+2020-05-06 14:32:46,909 - ebanking -INFO - Provided user Id
+2020-05-06 14:32:50,718 - ebanking -INFO - Successfully Deleted customer
+2020-05-06 14:32:50,718 - ebanking -INFO - Validation started
+2020-05-06 14:32:50,767 - ebanking -INFO - Test case passed and navigated to Home page
+2020-05-06 14:32:51,479 - ebanking -INFO - Clicked Logout button
+2020-05-06 14:34:46,145 - ebanking -INFO - username is provided
+2020-05-06 14:34:46,413 - ebanking -INFO - password is provided
+2020-05-06 14:34:51,555 - ebanking -INFO - Provided user Id
+2020-05-06 14:34:54,795 - ebanking -INFO - Switched to first alert asking: Do you really want to delete this Customer? 
+2020-05-06 14:34:55,019 - ebanking -INFO - Switched to second alert asking: Customer deleted Successfully
+2020-05-06 14:34:55,031 - ebanking -INFO - Validation started
+2020-05-06 14:42:17,736 - ebanking -INFO - username is provided
+2020-05-06 14:42:18,025 - ebanking -INFO - password is provided
+2020-05-06 14:42:23,481 - ebanking -INFO - Provided user Id
+2020-05-06 14:42:26,659 - ebanking -INFO - Validation started
+2020-05-06 15:40:14,975 - ebanking -INFO - username is provided
+2020-05-06 15:40:16,279 - ebanking -INFO - password is provided
+2020-05-06 15:40:21,514 - ebanking -INFO - Provided user Id
+2020-05-06 15:40:25,141 - ebanking -INFO - Successfully Deleted customer
+2020-05-06 15:40:25,148 - ebanking -INFO - Validation started
+2020-05-06 15:44:06,745 - ebanking -INFO - username is provided
+2020-05-06 15:44:07,050 - ebanking -INFO - password is provided
+2020-05-06 15:44:11,613 - ebanking -INFO - Provided user Id
+2020-05-06 15:44:14,792 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 15:44:14,805 - ebanking -INFO - Switched to alert: Customer doesnot exist
+2020-05-06 15:44:14,814 - ebanking -INFO - Switched to Alert: Successfully Deleted customer
+2020-05-06 15:44:14,830 - ebanking -INFO - Successfully Deleted customer
+2020-05-06 15:44:14,835 - ebanking -INFO - Validation started
+2020-05-06 15:55:55,612 - ebanking -INFO - username is provided
+2020-05-06 15:55:55,799 - ebanking -INFO - password is provided
+2020-05-06 15:56:00,720 - ebanking -INFO - Provided user Id
+2020-05-06 15:56:03,949 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 15:56:03,961 - ebanking -INFO - Switched to alert: Customer doesnot exist
+2020-05-06 15:56:03,972 - ebanking -INFO - Validation started
+2020-05-06 15:57:59,841 - ebanking -INFO - username is provided
+2020-05-06 15:58:00,085 - ebanking -INFO - password is provided
+2020-05-06 15:58:05,582 - ebanking -INFO - Provided user Id
+2020-05-06 15:58:08,782 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 15:58:08,795 - ebanking -INFO - Switched to alert: Customer doesnot exist
+2020-05-06 15:58:08,810 - ebanking -INFO - Validation started
+2020-05-06 16:00:32,466 - ebanking -INFO - username is provided
+2020-05-06 16:00:32,669 - ebanking -INFO - password is provided
+2020-05-06 16:00:37,904 - ebanking -INFO - Provided user Id
+2020-05-06 16:00:41,108 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:02:24,333 - ebanking -INFO - username is provided
+2020-05-06 16:02:24,663 - ebanking -INFO - password is provided
+2020-05-06 16:02:29,266 - ebanking -INFO - Provided user Id
+2020-05-06 16:02:32,474 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:03:33,500 - ebanking -INFO - username is provided
+2020-05-06 16:03:33,783 - ebanking -INFO - password is provided
+2020-05-06 16:03:39,230 - ebanking -INFO - Provided user Id
+2020-05-06 16:03:42,495 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:03:42,508 - ebanking -INFO - Switched to alert: does not exist
+2020-05-06 16:04:55,475 - ebanking -INFO - username is provided
+2020-05-06 16:04:55,833 - ebanking -INFO - password is provided
+2020-05-06 16:05:00,546 - ebanking -INFO - Provided user Id
+2020-05-06 16:05:03,724 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:05:03,734 - ebanking -INFO - Switched to alert: does not exist
+2020-05-06 16:06:06,859 - ebanking -INFO - username is provided
+2020-05-06 16:06:07,006 - ebanking -INFO - password is provided
+2020-05-06 16:06:11,874 - ebanking -INFO - Provided user Id
+2020-05-06 16:06:15,169 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:06:15,178 - ebanking -INFO - Switched to alert: does not exist
+2020-05-06 16:06:15,191 - ebanking -INFO - Switched to alert: does not exist accepted
+2020-05-06 16:11:27,913 - ebanking -INFO - username is provided
+2020-05-06 16:11:28,169 - ebanking -INFO - password is provided
+2020-05-06 16:11:34,651 - ebanking -INFO - Provided user Id
+2020-05-06 16:11:37,753 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:11:37,763 - ebanking -INFO - Switched to alert: Successfully Deleted Customer
+2020-05-06 16:11:37,778 - ebanking -INFO - Switch to alert: delete accepted
+2020-05-06 16:13:46,683 - ebanking -INFO - username is provided
+2020-05-06 16:13:46,871 - ebanking -INFO - password is provided
+2020-05-06 16:13:51,398 - ebanking -INFO - Provided user Id
+2020-05-06 16:13:54,580 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:13:54,592 - ebanking -INFO - Switched to alert: does not exist
+2020-05-06 16:13:54,603 - ebanking -INFO - Switched to alert: does not exist accepted
+2020-05-06 16:15:08,644 - ebanking -INFO - username is provided
+2020-05-06 16:15:08,822 - ebanking -INFO - password is provided
+2020-05-06 16:15:13,254 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:15:23,858 - ebanking -INFO - Validation started
+2020-05-06 16:15:23,912 - ebanking -INFO - TestCase is passed
+2020-05-06 16:15:24,432 - ebanking -INFO - Navigated to home page
+2020-05-06 16:15:24,826 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:15:25,349 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:16:23,836 - ebanking -INFO - username is provided
+2020-05-06 16:16:24,072 - ebanking -INFO - password is provided
+2020-05-06 16:16:28,736 - ebanking -INFO - Provided user Id
+2020-05-06 16:16:31,903 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:16:31,914 - ebanking -INFO - Switched to alert: does not exist
+2020-05-06 16:16:31,933 - ebanking -INFO - Switched to alert: does not exist accepted
+2020-05-06 16:18:33,736 - ebanking -INFO - username is provided
+2020-05-06 16:18:33,926 - ebanking -INFO - password is provided
+2020-05-06 16:18:38,929 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:18:49,372 - ebanking -INFO - Validation started
+2020-05-06 16:18:49,435 - ebanking -INFO - TestCase is passed
+2020-05-06 16:18:49,952 - ebanking -INFO - Navigated to home page
+2020-05-06 16:18:50,315 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:18:50,807 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:19:18,237 - ebanking -INFO - username is provided
+2020-05-06 16:19:18,398 - ebanking -INFO - password is provided
+2020-05-06 16:19:23,390 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:19:33,924 - ebanking -INFO - Validation started
+2020-05-06 16:19:33,966 - ebanking -INFO - TestCase is passed
+2020-05-06 16:19:34,499 - ebanking -INFO - Navigated to home page
+2020-05-06 16:19:34,886 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:19:35,348 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:20:38,912 - ebanking -INFO - username is provided
+2020-05-06 16:20:39,117 - ebanking -INFO - password is provided
+2020-05-06 16:20:44,359 - ebanking -INFO - Provided user Id
+2020-05-06 16:20:47,527 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:27:59,558 - ebanking -INFO - username is provided
+2020-05-06 16:27:59,773 - ebanking -INFO - password is provided
+2020-05-06 16:28:04,466 - ebanking -INFO - Provided user Id
+2020-05-06 16:28:07,651 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:28:07,670 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:30:33,990 - ebanking -INFO - username is provided
+2020-05-06 16:30:34,203 - ebanking -INFO - password is provided
+2020-05-06 16:30:39,677 - ebanking -INFO - Provided user Id
+2020-05-06 16:30:42,885 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:30:42,900 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:32:29,910 - ebanking -INFO - username is provided
+2020-05-06 16:32:30,180 - ebanking -INFO - password is provided
+2020-05-06 16:32:35,115 - ebanking -INFO - Provided user Id
+2020-05-06 16:32:38,627 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:32:38,638 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:32:38,806 - ebanking -INFO - Switched to new alert
+2020-05-06 16:34:12,486 - ebanking -INFO - username is provided
+2020-05-06 16:34:12,763 - ebanking -INFO - password is provided
+2020-05-06 16:34:17,729 - ebanking -INFO - Provided user Id
+2020-05-06 16:34:20,901 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:34:20,911 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:34:21,131 - ebanking -INFO - Switched to new alert
+2020-05-06 16:34:21,143 - ebanking -INFO - Switched to alert: Successfully Deleted Customer
+2020-05-06 16:34:21,162 - ebanking -INFO - Switch to alert: delete accepted
+2020-05-06 16:38:57,703 - ebanking -INFO - username is provided
+2020-05-06 16:38:57,906 - ebanking -INFO - password is provided
+2020-05-06 16:39:02,933 - ebanking -INFO - Provided user Id
+2020-05-06 16:39:06,058 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:39:06,071 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:39:06,230 - ebanking -INFO - Switched to new alert
+2020-05-06 16:39:06,267 - ebanking -INFO - Switch to alert: Non exist accepted
+2020-05-06 16:39:06,269 - ebanking -INFO - Customer does not exist
+2020-05-06 16:39:06,271 - ebanking -INFO - Validation started
+2020-05-06 16:40:37,837 - ebanking -INFO - username is provided
+2020-05-06 16:40:38,038 - ebanking -INFO - password is provided
+2020-05-06 16:40:43,729 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:40:53,982 - ebanking -INFO - Validation started
+2020-05-06 16:41:32,145 - ebanking -INFO - username is provided
+2020-05-06 16:41:32,363 - ebanking -INFO - password is provided
+2020-05-06 16:41:38,961 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:41:49,860 - ebanking -INFO - Validation started
+2020-05-06 16:41:49,895 - ebanking -INFO - TestCase is passed
+2020-05-06 16:41:50,427 - ebanking -INFO - Navigated to home page
+2020-05-06 16:41:50,804 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:41:51,317 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:42:36,754 - ebanking -INFO - username is provided
+2020-05-06 16:42:36,937 - ebanking -INFO - password is provided
+2020-05-06 16:42:42,115 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:42:52,863 - ebanking -INFO - Validation started
+2020-05-06 16:42:52,934 - ebanking -INFO - TestCase is passed
+2020-05-06 16:42:53,469 - ebanking -INFO - Navigated to home page
+2020-05-06 16:42:53,922 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:42:54,399 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:43:19,427 - ebanking -INFO - username is provided
+2020-05-06 16:43:19,625 - ebanking -INFO - password is provided
+2020-05-06 16:43:25,969 - ebanking -INFO - Provided user Id
+2020-05-06 16:43:29,146 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:43:29,209 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:43:29,543 - ebanking -INFO - Switched to new alert
+2020-05-06 16:43:29,573 - ebanking -INFO - Switched to alert: Successfully Deleted Customer
+2020-05-06 16:43:29,600 - ebanking -INFO - Switch to alert: delete accepted
+2020-05-06 16:43:29,601 - ebanking -INFO - Validation started
+2020-05-06 16:43:30,026 - ebanking -INFO - Test case passed and navigated to Home page
+2020-05-06 16:43:30,442 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:46:14,779 - ebanking -INFO - user name provided
+2020-05-06 16:46:15,017 - ebanking -INFO - password provided
+2020-05-06 16:46:18,963 - ebanking -INFO - Login passed
+2020-05-06 16:46:23,314 - ebanking -INFO - user name provided
+2020-05-06 16:46:23,514 - ebanking -INFO - password provided
+2020-05-06 16:46:27,152 - ebanking -INFO - Login passed
+2020-05-06 16:47:06,716 - ebanking -INFO - username is provided
+2020-05-06 16:47:06,947 - ebanking -INFO - password is provided
+2020-05-06 16:47:11,866 - ebanking -INFO - Providing customer's details...
+2020-05-06 16:47:22,623 - ebanking -INFO - Validation started
+2020-05-06 16:47:22,663 - ebanking -INFO - TestCase is passed
+2020-05-06 16:47:23,170 - ebanking -INFO - Navigated to home page
+2020-05-06 16:47:23,558 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:47:24,176 - ebanking -INFO - Successfully Logged out
+2020-05-06 16:48:54,122 - ebanking -INFO - username is provided
+2020-05-06 16:48:54,353 - ebanking -INFO - password is provided
+2020-05-06 16:48:59,868 - ebanking -INFO - Provided user Id
+2020-05-06 16:49:03,074 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:49:03,086 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:49:03,330 - ebanking -INFO - Switched to new alert
+2020-05-06 16:49:03,347 - ebanking -INFO - Switched to alert: Successfully Deleted Customer
+2020-05-06 16:49:03,363 - ebanking -INFO - Switch to alert: delete accepted
+2020-05-06 16:49:03,364 - ebanking -INFO - Validation started
+2020-05-06 16:49:03,878 - ebanking -INFO - Test case passed and navigated to Home page
+2020-05-06 16:49:04,588 - ebanking -INFO - Clicked Logout button
+2020-05-06 16:49:43,466 - ebanking -INFO - username is provided
+2020-05-06 16:49:43,634 - ebanking -INFO - password is provided
+2020-05-06 16:49:48,721 - ebanking -INFO - Provided user Id
+2020-05-06 16:49:51,894 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:49:51,904 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:49:52,135 - ebanking -INFO - Switched to new alert
+2020-05-06 16:49:52,159 - ebanking -INFO - Switch to alert: Non exist accepted
+2020-05-06 16:49:52,161 - ebanking -INFO - Customer does not exist
+2020-05-06 16:49:52,164 - ebanking -INFO - Validation started
+2020-05-06 16:52:35,200 - ebanking -INFO - username is provided
+2020-05-06 16:52:35,439 - ebanking -INFO - password is provided
+2020-05-06 16:52:40,443 - ebanking -INFO - Provided user Id
+2020-05-06 16:52:43,642 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:52:43,674 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:52:43,858 - ebanking -INFO - Switched to new alert
+2020-05-06 16:52:43,885 - ebanking -INFO - Switch to alert: Non exist accepted
+2020-05-06 16:52:43,887 - ebanking -INFO - Customer does not exist
+2020-05-06 16:52:43,890 - ebanking -INFO - Validation started
+2020-05-06 16:53:58,809 - ebanking -INFO - username is provided
+2020-05-06 16:53:59,065 - ebanking -INFO - password is provided
+2020-05-06 16:54:04,319 - ebanking -INFO - Provided user Id
+2020-05-06 16:54:07,498 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:54:07,519 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:54:07,745 - ebanking -INFO - Switched to new alert
+2020-05-06 16:54:07,780 - ebanking -INFO - Switch to alert: Non exist accepted
+2020-05-06 16:54:07,783 - ebanking -INFO - Customer does not exist
+2020-05-06 16:54:07,784 - ebanking -INFO - Validation started
+2020-05-06 16:54:09,163 - ebanking -INFO - TestCase is failed and navigated to delete user page
+2020-05-06 16:55:21,524 - ebanking -INFO - username is provided
+2020-05-06 16:55:21,792 - ebanking -INFO - password is provided
+2020-05-06 16:55:27,238 - ebanking -INFO - Provided user Id
+2020-05-06 16:55:30,420 - ebanking -INFO - Switched to alert: Do you really want to delete Customer?
+2020-05-06 16:55:30,431 - ebanking -INFO - Alert accepted: Do you really want to delete Customer?
+2020-05-06 16:55:30,649 - ebanking -INFO - Switched to new alert
+2020-05-06 16:55:30,657 - ebanking -INFO - Switched to alert: Successfully Deleted Customer
+2020-05-06 16:55:30,684 - ebanking -INFO - Switch to alert: delete accepted
+2020-05-06 16:55:30,685 - ebanking -INFO - Validation started
+2020-05-06 16:55:31,073 - ebanking -INFO - Test case passed and navigated to Home page
+2020-05-06 16:55:31,760 - ebanking -INFO - Clicked Logout button

@@ -16,9 +16,9 @@ public class DeleteCustomer {
 		PageFactory.initElements(driver, this);
 	}
 
-	@FindBy(how = How.LINK_TEXT, using = "Edit Customer")
+	@FindBy(how = How.LINK_TEXT, using = "Delete Customer")
 	@CacheLookup
-	WebElement editCusBtn;
+	WebElement delCusBtn;
 
 	@FindBy(how = How.NAME, using = "cusid")
 	@CacheLookup
@@ -28,12 +28,10 @@ public class DeleteCustomer {
 	@CacheLookup
 	WebElement submitBtn;
 
-	@FindBy(how = How.LINK_TEXT, using = "Continue")
-	@CacheLookup
-	WebElement homeLink;
+	
 
-	public void clickEditCusBtn() {
-		editCusBtn.click();
+	public void clickDelCusBtn() {
+		delCusBtn.click();
 	}
 
 	public void cusIdInput(String id) {
@@ -42,10 +40,6 @@ public class DeleteCustomer {
 
 	public void submitBtn() {
 		submitBtn.click();
-	}
-
-	public void homeLink() {
-		homeLink.click();
 	}
 
 }

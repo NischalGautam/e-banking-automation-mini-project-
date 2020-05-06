@@ -22,17 +22,21 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
 import com.internetBanking.utilities.ReadConfig;
+import com.internetBanking.utilities.ReadConfigid;
 
 public class BaseClass {
 
 	ReadConfig readconfig = new ReadConfig();
+	ReadConfigid readconfigid = new ReadConfigid();
 
 	public String baseUrl = readconfig.getApplicationURL();
 	public String username = readconfig.getUserName();
 	public String password = readconfig.getPassword();
-	public String id1 = readconfig.getid01();
-	public String id2 = readconfig.getid02();
-	public String id3 = readconfig.getid03();
+	public String id1 = readconfigid.getid01();
+	public String id2 = readconfigid.getid02();
+	public String id3 = readconfigid.getid03();
+	public String id4 = readconfigid.getid04();
+	public String id5 = readconfigid.getid05();
 	public static WebDriver driver;
 	public static Logger log;
 

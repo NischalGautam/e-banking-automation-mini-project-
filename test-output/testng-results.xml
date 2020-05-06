@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="8" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-06T00:18:54 CDT" name="InternetBankingV1" finished-at="2020-05-06T00:19:47 CDT" duration-ms="53713">
+  <suite started-at="2020-05-06T16:55:09 CDT" name="InternetBankingV1" finished-at="2020-05-06T16:55:32 CDT" duration-ms="23891">
     <groups>
     </groups>
-    <test started-at="2020-05-06T00:18:54 CDT" name="Test" finished-at="2020-05-06T00:19:47 CDT" duration-ms="53713">
-      <class name="com.internetBanking.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.internetBanking.testCases.TC_LoginTest_001@10163d6]" started-at="2020-05-06T00:18:54 CDT" name="setup" finished-at="2020-05-06T00:19:04 CDT" duration-ms="10741" status="PASS">
+    <test started-at="2020-05-06T16:55:09 CDT" name="Test" finished-at="2020-05-06T16:55:32 CDT" duration-ms="23891">
+      <class name="com.internetBanking.testCases.TC_DeleteCustomerTest_005">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.internetBanking.testCases.TC_DeleteCustomerTest_005@66498326]" started-at="2020-05-06T16:55:09 CDT" name="setup" finished-at="2020-05-06T16:55:21 CDT" duration-ms="11875" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,57 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.internetBanking.testCases.TC_LoginTest_001@10163d6]" started-at="2020-05-06T00:19:05 CDT" name="loginTest" finished-at="2020-05-06T00:19:07 CDT" duration-ms="2748" status="PASS">
+        <test-method signature="deleteCustomer()[pri:0, instance:com.internetBanking.testCases.TC_DeleteCustomerTest_005@66498326]" started-at="2020-05-06T16:55:21 CDT" name="deleteCustomer" finished-at="2020-05-06T16:55:31 CDT" duration-ms="10553" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- com.internetBanking.testCases.TC_LoginTest_001 -->
-      <class name="com.internetBanking.testCases.TC_AddCustomerTest_003">
-        <test-method signature="addNewCustomer()[pri:0, instance:com.internetBanking.testCases.TC_AddCustomerTest_003@15bbf42f]" started-at="2020-05-06T00:19:26 CDT" name="addNewCustomer" finished-at="2020-05-06T00:19:43 CDT" duration-ms="16780" status="PASS">
+        </test-method> <!-- deleteCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.internetBanking.testCases.TC_DeleteCustomerTest_005@66498326]" started-at="2020-05-06T16:55:31 CDT" name="tearDown" finished-at="2020-05-06T16:55:32 CDT" duration-ms="1090" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addNewCustomer -->
-      </class> <!-- com.internetBanking.testCases.TC_AddCustomerTest_003 -->
-      <class name="com.internetBanking.testCases.TC_LoginDDT_002">
-        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.internetBanking.testCases.TC_LoginDDT_002@2dde1bff]" started-at="2020-05-06T00:19:09 CDT" name="loginDDT" data-provider="LoginData" finished-at="2020-05-06T00:19:18 CDT" duration-ms="9097" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr258528]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[mEmYsUj]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.internetBanking.testCases.TC_LoginDDT_002@2dde1bff]" started-at="2020-05-06T00:19:18 CDT" name="loginDDT" data-provider="LoginData" finished-at="2020-05-06T00:19:26 CDT" duration-ms="7758" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mngr258528]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[mEmYsUj]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-      </class> <!-- com.internetBanking.testCases.TC_LoginDDT_002 -->
-      <class name="com.internetBanking.testCases.TC_EditCustomerTest_004">
-        <test-method signature="editCustomer()[pri:0, instance:com.internetBanking.testCases.TC_EditCustomerTest_004@550ee7e5]" started-at="2020-05-06T00:19:43 CDT" name="editCustomer" finished-at="2020-05-06T00:19:47 CDT" duration-ms="4645" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- editCustomer -->
-      </class> <!-- com.internetBanking.testCases.TC_EditCustomerTest_004 -->
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internetBanking.testCases.TC_DeleteCustomerTest_005 -->
     </test> <!-- Test -->
   </suite> <!-- InternetBankingV1 -->
 </testng-results>

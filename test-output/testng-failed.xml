@@ -7,30 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.internetBanking.testCases.TC_LoginTest_001">
+      <class name="com.internetBanking.testCases.TC_DeleteCustomerTest_005">
         <methods>
-          <include name="loginTest"/>
+          <include name="deleteCustomer"/>
           <include name="setup"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.internetBanking.testCases.TC_LoginTest_001 -->
-      <class name="com.internetBanking.testCases.TC_AddCustomerTest_003">
-        <methods>
-          <include name="addNewCustomer"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.internetBanking.testCases.TC_AddCustomerTest_003 -->
-      <class name="com.internetBanking.testCases.TC_LoginDDT_002">
-        <methods>
-          <include name="setup"/>
-          <include name="loginDDT" invocation-numbers="0 1"/>
-        </methods>
-      </class> <!-- com.internetBanking.testCases.TC_LoginDDT_002 -->
-      <class name="com.internetBanking.testCases.TC_EditCustomerTest_004">
-        <methods>
-          <include name="setup"/>
-          <include name="editCustomer"/>
-        </methods>
-      </class> <!-- com.internetBanking.testCases.TC_EditCustomerTest_004 -->
+      </class> <!-- com.internetBanking.testCases.TC_DeleteCustomerTest_005 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [InternetBankingV1] -->
